@@ -4,7 +4,7 @@
 }
 
 .container{
-  background-color:rgb(182, 229, 192);
+  background-color:rgb(31, 239, 218);
   font-family:'Courier New', Courier, monospace;
 }
 .contents{
@@ -71,9 +71,8 @@ li a{
 }
 
 .container-body{
-  margin:5rem;
+  margin:2rem;
   width:65%;
-  /* align-items:center; */
   justify-content:center;
   text-align:center;
 
@@ -84,8 +83,6 @@ li a{
 }
 
 .small{
-  /* padding:16px; */
-  /* margin:14px; */
   text-align:center;
   font-size:1.2rem;
 }
@@ -112,9 +109,7 @@ input{
   font-size:1rem;
 
 }
-placeholder{
 
-}
 .subscribe{
   margin:2px;
   background-color:orange;
@@ -131,7 +126,7 @@ placeholder{
   grid-template-columns:repeat(3,1fr);
   grid-template-rows:1fr;
   gap:6px;
-  padding: 0 8px 0 0;
+  padding:2rem;
 
 
 
